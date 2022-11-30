@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Microsoft Laptop 4",
+        "price": 109999,
+        "imgUrl": "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+    },
+    {
+        "id": 2,
+        "name": "iPhone X",
+        "price": 49999,
+        "imgUrl": "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+    },
+    {
+        "id": 3,
+        "name": "HP Pavilion",
+        "price": 42000,
+        "imgUrl": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Galaxy Book",
+        "price": 90999,
+        "imgUrl": "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+    },
+    {
+        "id": 5,
+        "name": "iPhone SE",
+        "price": 24999,
+        "imgUrl": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Huawei P30",
+        "price": 49999,
+        "imgUrl": "https://i.dummyjson.com/data/products/5/thumbnail.jpg"
+    },
+    {
+        "id": 7,
+        "name": "MacBook Pro",
+        "price": 200000,
+        "imgUrl": "https://i.dummyjson.com/data/products/6/thumbnail.png"
+    },
+    {
+        "id": 8,
+        "name": "OPPOF19",
+        "price": 28000,
+        "imgUrl": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Samsung Universe 9",
+        "price": 12490,
+        "imgUrl": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Infinix INBOOK",
+        "price": 109900,
+        "imgUrl": "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+    },
+    {
+        "id": 11,
+        "name": "3D Embellishment Art Lamp",
+        "price": 2000,
+        "imgUrl": "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Handcraft Chinese style",
+        "price": 600,
+        "imgUrl": "https://i.dummyjson.com/data/products/29/thumbnail.webp"
+    },
+    {
+        "id": 13,
+        "name": "Key Holder",
+        "price": 300,
+        "imgUrl": "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Eau De Perfume Spray",
+        "price": 3000,
+        "imgUrl": "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Non-Alcoholic Concentrated Perfume Oil",
+        "price": 1200,
+        "imgUrl": "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+    }
+]
